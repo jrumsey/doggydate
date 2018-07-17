@@ -1,9 +1,14 @@
 .login-box {
-    margin-left: 40%;
-    margin-right: 40%;
+    margin-top: 100px;
+    margin-left: 25%;
 }
 
 .create-user-box {
-    margin-left: 40%;
-    margin-right: 40%;
+    margin-top: 100px;
+    margin-right: 25%;
 }
+
+#login-container {
+    margin: 0 auto;
+}
+

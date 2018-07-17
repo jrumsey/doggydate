@@ -1,0 +1,30 @@
+user
+ id INT
+ username TEXT
+ password TEXT(40)
+ email TEXT(255)
+ name TEXT(20)
+ gender BOOL
+ date_of_birth DATETIME
+ about TEXT(500)
+ is_active BOOL
+ is_banned BOOL
+ created_at DATETIME
+ updated_at DATETIME
+
+contacts
+ id INT
+ users_id INT
+ 
+
+message
+ id INT
+ content TEXT(100)
+ sent_date DATETIME
+ conversation 
+ sender
+ 
+ 
+ 
+ 
+
